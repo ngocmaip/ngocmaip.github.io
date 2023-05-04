@@ -44,3 +44,4 @@ jobs:
         publish_dir: ./public
         user_name: Mai
         user_email: ngocmaip.304@gmail.com
+        cname: hnidoaht.com
